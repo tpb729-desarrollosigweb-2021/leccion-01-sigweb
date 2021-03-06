@@ -8,3 +8,6 @@ Un SIG permite la aplicación en datos geográficos (o espaciales) de tareas com
 - Generación de visualizaciones tales como mapas, gráficos y tablas, entre otros.
 
 En sus inicios, en la década de 1960 (y durante varias décadas subsiguientes), los SIG fueron implementados principalmente como *aplicaciones de escritorio*. Es decir, aplicaciones de software que funcionan íntegramente en la computadora del usuario, sin acceder a computadores o recursos externos para realizar tareas como las mencionadas anteriormente. Con la paulatina popularización de las redes de computadoras y de la Internet, se hizo cada vez más evidente la conveniencia de utilizar la Web para realizar de manera ditribuida (i.e. en varias computadoras) las tareas que usualmente se hacían completamente en la computadora del usuario del SIG.
+
+## Recursos externos
+- Libro de Víctor Olaya
