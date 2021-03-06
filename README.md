@@ -11,13 +11,21 @@ En sus inicios, en la década de 1960 (y durante varias décadas subsiguientes),
 
 ## Tecnologías
 
-### HTML
+### *Back end*
 
-### CSS
+#### Servicios web
 
-### JavaScript
+#### Bases de datos geoespaciales
 
-#### Bibliotecas geoespaciales
+### *Front end*
+
+#### HTML
+
+#### CSS
+
+#### JavaScript
+
+##### Bibliotecas geoespaciales
 
 ## Recursos externos
 - Sistemas de Información Geográfica, de Víctor Olaya (https://volaya.github.io/libro-sig/)
