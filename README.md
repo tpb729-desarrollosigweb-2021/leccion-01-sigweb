@@ -1,7 +1,7 @@
 # Sistemas de información geográfica en la Web
 Un sistema de información geográfica (SIG) es aquel que permite el manejo de información relacionada con la localización de objetos o fenómenos en un espacio. Esta localización puede estar expresada, por ejemplo, mediante [coordenadas geográficas (longitud y latitud)](https://es.wikipedia.org/wiki/Coordenadas_geogr%C3%A1ficas).
 
-Un SIG permite la realización en datos geográficos (o espaciales) operaciones como:
+Un SIG permite la realización en datos geográficos (o espaciales) de operaciones como:
 
 - Lectura, edición, almacenamiento y, en general, gestión.
 - Análisis.
