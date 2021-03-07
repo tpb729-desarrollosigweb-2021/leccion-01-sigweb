@@ -21,7 +21,7 @@ El [lenguaje de marcas de hipertexto o HTML](https://html.spec.whatwg.org/) (sig
 
 El HTML especifica la estructura y la semántica de una página web mediante marcas o *tags*. Un navegador web recibe documentos HTML de un servidor web (o de almacenamiento local) y despliega sus componentes (textos, imágenes, hipervínculos, etc.) de acuerdo con las especificaciones contenidas en los *tags.*
 
-```
+```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
