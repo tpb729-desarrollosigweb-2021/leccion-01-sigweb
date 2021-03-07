@@ -4,7 +4,7 @@ Un sistema de información geográfica (SIG) es aquel que está orientado al man
 Un SIG facilita la realización de tareas como:
 
 - Lectura, edición, almacenamiento y, en general, gestión de datos geográficos.
-- Análisis de datos geográficos (o, en general, espaciales).
+- Análisis de datos geográficos.
 - Generación de visualizaciones tales como mapas, gráficos y tablas, entre otros.
 
 En sus inicios, en la década de 1960 (y durante varias décadas subsiguientes), los SIG fueron implementados principalmente como aplicaciones *de escritorio*. Es decir, sistemas de software que funcionan íntegramente en la computadora del usuario, sin acceder a otras computadoras o recursos externos para realizar tareas como las mencionadas anteriormente. Con la paulatina popularización de las redes de computadoras y de la Internet, a partir de la década de 1980, se hizo cada vez más evidente la conveniencia de utilizar la Web para realizar de manera ditribuida (i.e. en varias computadoras) estas tareas. Así, los SIG en la Web permiten, por ejemplo, visualizar en un navegador de Internet mapas elaborados con datos geoespaciales almacenados en repositorios remotos o acceder servicios de geoprocesamiento disponibles en servidores administrados por terceros.
@@ -17,7 +17,7 @@ A continuación, se describen las principales tecnologías utilizadas tanto en e
 ### *Front end*
 
 #### HTML
-El [lenguaje de marcas de hipertexto o HTML](https://html.spec.whatwg.org/) (siglas en inglés de *Hypertext Markup Language*) es el lenguaje de marcas estándar para documentos diseñados para desplegarse en un navegador web. Junto con CSS (*Cascading Style Sheets*) y JavaScript, conforma el grupo de las tres tecnologías principales de la Web. Fue creado en 1990 por el científico británico Tim Berners-Lee, como parte de su trabajo en la Organización Europea para la Investigación Nuclear (CERN, *Conseil européen pour la recherche nucléaire*). El HTML fue concebido como parte de un sistema para que los investigadores del CERN utilizaran y compartieran documentos.
+El [lenguaje de marcas de hipertexto o HTML](https://html.spec.whatwg.org/) (siglas en inglés de *Hypertext Markup Language*) es el lenguaje de marcas estándar para documentos diseñados para desplegarse en un navegador web. Junto con CSS (*Cascading Style Sheets*) y JavaScript, conforma el grupo de las tres tecnologías principales de la Web. Fue creado en 1990 por el científico inglés Tim Berners-Lee, como parte de su trabajo en la Organización Europea para la Investigación Nuclear (CERN, *Conseil européen pour la recherche nucléaire*). El HTML fue concebido como parte de un sistema para que los investigadores del CERN utilizaran y compartieran documentos.
 
 El HTML especifica la estructura y la semántica de una página web mediante marcas o *tags*. Un navegador web recibe documentos HTML de un servidor web (o de almacenamiento local) y despliega sus componentes (textos, imágenes, hipervínculos, etc.) de acuerdo con las especificaciones contenidas en los *tags.*
 
