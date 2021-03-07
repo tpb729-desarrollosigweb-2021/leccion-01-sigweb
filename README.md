@@ -43,6 +43,7 @@ El HTML especifica la estructura y la semántica de una página web mediante mar
 </html>
 ```
 
+<figure><img src="https://tpb729-desarrollosigweb-2021.github.io/leccion-01-sigweb/img/tim-berners-lee-html.png" alt="Documento HTML"><figcaption><small>Documento HTML.</small></figcaption></figure>
 
 
 #### CSS
