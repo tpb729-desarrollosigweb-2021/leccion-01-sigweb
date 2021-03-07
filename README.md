@@ -12,7 +12,7 @@ En sus inicios, en la década de 1960 (y durante varias décadas subsiguientes),
 ## Tecnologías
 Las tecnologías utilizadas en el desarrollo de aplicaciones para la Web pueden dividirse en dos grupos: las de *front end* y las de *back end*. El *front end* se encarga de presentarle los datos al usuario (ej. en mapas) y capturar sus instrucciones para manipularlos (ej. alejamientos, acercamientos, filtros, selecciones). El *back end* procesa los datos de acuerdo con estas instrucciones. Típicamente, en el caso de los SIG en la Web, el *front end* se implementa en un navegador web y el *back end* a través de servidores de mapas y de bases de datos geoespaciales, entre otros. Los componentes del *front end* y del *back end* se ilustran en la figura 1.
 
-<figure><img src="img/frontend-backend.png" alt="Front end y back End"><figcaption><small><strong>Figura 1.</strong>*Front end* y *back end*.</small></figcaption></figure>  
+<figure><img src="img/frontend-backend.jpg" alt="Front end y back End"><figcaption><small><strong>Figura 1.</strong>*Front end* y *back end*.</small></figcaption></figure>  
 
 <p>
 
