@@ -46,7 +46,7 @@ El siguiente documento HTML contiene, entre otros, *tags* para el título del do
 ```
 La página web que se despliega como producto del documento HTML anterior se muestra en la figura 1.
 
-<figure><img src="https://tpb729-desarrollosigweb-2021.github.io/leccion-01-sigweb/img/tim-berners-lee-html.png" alt="Documento HTML"><figcaption><small><strong>Figura 1.</strong><a href="https://tpb729-desarrollosigweb-2021.github.io/leccion-01-sigweb/tim-berners-lee-html.html">Página web generada mediante HTML</a>.</small></figcaption></figure>  
+<figure><img src="https://tpb729-desarrollosigweb-2021.github.io/leccion-01-sigweb/img/tim-berners-lee-html.png" alt="Documento HTML"><figcaption><small><strong>Figura 1.</strong> <a href="https://tpb729-desarrollosigweb-2021.github.io/leccion-01-sigweb/tim-berners-lee-html.html">Página web generada mediante HTML</a>.</small></figcaption></figure>  
 
 <p>
 
