@@ -21,6 +21,28 @@ El [lenguaje de marcas de hipertexto o HTML](https://html.spec.whatwg.org/) (sig
 
 El HTML especifica la estructura y la semántica de una página web mediante marcas o *tags*. Un navegador web recibe documentos HTML de un servidor web (o de almacenamiento local) y despliega sus componentes (textos, imágenes, hipervínculos, etc.) de acuerdo con las especificaciones contenidas en los *tags.*
 
+```
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Tim Berners-Lee</title>     
+</head>
+<body>
+    <h1>Tim Berners-Lee</h1>
+    Sir Timothy John Berners-Lee es un científico de la computación inglés, conocido por crear la World Wide Web (WWW).    
+    <p>
+    <img src="img/tim-berners-lee-128px.jpg">
+    
+    <h2>Información general</h2>
+    Tim Berners-Lee nació en el sudoeste de Londres, Reino Unido, el 8 de junio de 1955. 
+    
+    <h2>Creación de la WWW</h2>
+    Tim Berners-Lee creó la WWW en 1989 como parte de su trabajo en la <a href="https://home.cern/">Organización Europea para la Investigación Nuclear (CERN)</a>.
+</body>
+</html>
+```
+
 
 
 #### CSS
