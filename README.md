@@ -15,23 +15,6 @@ En sus inicios, en la década de 1960 (y durante varias décadas subsiguientes),
     
 Adicionalmente, en la tabla 1 se comparan algunas características de ambos tipos de SIG.
 
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
 <table style="width:80%">
     <caption><strong>Tabla 1. </strong>Comparación de características de los SIG de escritorio y los SIG en la Web</caption>
     <tr>
