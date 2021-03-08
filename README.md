@@ -1,21 +1,3 @@
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
-
 # Sistemas de información geográfica en la Web
 Un sistema de información geográfica (SIG) es aquel que está orientado al manejo de información relacionada con la localización de objetos o fenómenos en el espacio. Esta localización se expresa en el contexto de un sistema de coordenadas, como el [sistema de coordenadas geográficas](https://es.wikipedia.org/wiki/Coordenadas_geogr%C3%A1ficas), el cual permite especificar la ubicación de cualquier lugar en la Tierra mediante su longitud y latitud.
 
@@ -33,6 +15,23 @@ En sus inicios, en la década de 1960 (y durante varias décadas subsiguientes),
     
 Adicionalmente, en la tabla 1 se comparan algunas características de ambos tipos de SIG.
 
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
 <table style="width:80%">
     <caption><strong>Tabla 1. </strong>Comparación de características de los SIG de escritorio y los SIG en la Web</caption>
     <tr>
