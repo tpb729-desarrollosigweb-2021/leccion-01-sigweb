@@ -23,12 +23,24 @@ Adicionalmente, en la tabla 1 se comparan algunas características de ambos tipo
         <th>SIG en la Web</th>
     </tr>
     <tr>
-        <td>Aplicación "pesada": consume mucha memoria y procesador</td>
+        <td>Aplicación "pesada": consume una gran cantidad de espacio en disco, así como memoria y procesador</td>
         <td>Aplicación "liviana" (navegador web): consume menos recursos</td>
     </tr>
     <tr>
-        <td>Usa datos en almacenamiento local (ej. en discos)</td>
-        <td>Usa datos en repositorios remotos (ej. en servidores de mapas WMS, WFS y otros)</td>
+        <td>Funcionalidades diversas</td>
+        <td>Funcionalidad orientada a tareas específicas</td>
+    </tr>
+    <tr>
+        <td>Para usuarios especializados</td>
+        <td>Para usuarios no especializados</td>
+    </tr>
+    <tr>
+        <td>Mantiene los datos en medios locales de almacenamiento (ej. en discos duros)</td>
+        <td>Usa datos en repositorios remotos (ej. servidores de bases de datos, servidores de mapas con servicios como WMS, WFS y otros)</td>
+    </tr>
+    <tr>
+        <td>El procesamiento se realiza localmente, en la computadora del usuario</td>
+        <td>El procesamiento se realiza en servidores remotos</td>
     </tr>
 </table>
 <p>
