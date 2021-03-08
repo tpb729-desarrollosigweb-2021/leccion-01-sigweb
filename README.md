@@ -15,6 +15,7 @@ En sus inicios, en la década de 1960 (y durante varias décadas subsiguientes),
     
 Adicionalmente, en la tabla 1 se comparan algunas características de ambos tipos de SIG.
 
+<p>
 <table style="width:80%">
     <caption><strong>Tabla 1. </strong>Comparación de características de los SIG de escritorio y los SIG en la Web</caption>
     <tr>
@@ -30,6 +31,7 @@ Adicionalmente, en la tabla 1 se comparan algunas características de ambos tipo
         <td>Usa datos en repositorios remotos (ej. en servidores de mapas WMS, WFS y otros)</td>
     </tr>
 </table>
+<p>
 
 ## Tecnologías
 Las tecnologías utilizadas en el desarrollo de aplicaciones para la Web pueden dividirse en dos grupos: las de *front end* y las de *back end*. El *front end* se encarga de presentarle los datos al usuario (ej. en mapas) y capturar sus instrucciones para manipularlos (ej. alejamientos, acercamientos, filtros, selecciones). El *back end* procesa los datos de acuerdo con estas instrucciones. Típicamente, en el caso de los SIG en la Web, el *front end* se implementa en un navegador web y el *back end* a través de servidores de mapas y de bases de datos geoespaciales, entre otros. Los componentes del *front end* y del *back end* se ilustran en la figura 2.
