@@ -9,11 +9,15 @@ Un SIG facilita la realización de tareas como:
 
 En sus inicios, en la década de 1960 (y durante varias décadas subsiguientes), los SIG fueron implementados principalmente como aplicaciones *de escritorio*. Es decir, sistemas de software que funcionan íntegramente en la computadora del usuario, sin acceder a otras computadoras o recursos externos para realizar tareas como las mencionadas anteriormente. Con la paulatina popularización de las redes de computadoras y de la Internet, a partir de la década de 1980, se hizo cada vez más evidente la conveniencia de utilizar la *World Wide Web* (WWW) para realizar de manera ditribuida (i.e. en varias computadoras) estas tareas. Así, los SIG en la Web permiten, por ejemplo, visualizar en un navegador de Internet mapas elaborados con datos geoespaciales almacenados en repositorios remotos o acceder servicios de geoprocesamiento disponibles en servidores administrados por terceros.
 
+<p>
+<figure><img src="img/sigescritorio-sigweb.jpg" alt="Front end y back End"><figcaption><small><strong>Figura 1.</strong> SIG de escritorio y SIG en la Web.</small></figcaption></figure>  
+<p>
+
 ## Tecnologías
-Las tecnologías utilizadas en el desarrollo de aplicaciones para la Web pueden dividirse en dos grupos: las de *front end* y las de *back end*. El *front end* se encarga de presentarle los datos al usuario (ej. en mapas) y capturar sus instrucciones para manipularlos (ej. alejamientos, acercamientos, filtros, selecciones). El *back end* procesa los datos de acuerdo con estas instrucciones. Típicamente, en el caso de los SIG en la Web, el *front end* se implementa en un navegador web y el *back end* a través de servidores de mapas y de bases de datos geoespaciales, entre otros. Los componentes del *front end* y del *back end* se ilustran en la figura 1.
+Las tecnologías utilizadas en el desarrollo de aplicaciones para la Web pueden dividirse en dos grupos: las de *front end* y las de *back end*. El *front end* se encarga de presentarle los datos al usuario (ej. en mapas) y capturar sus instrucciones para manipularlos (ej. alejamientos, acercamientos, filtros, selecciones). El *back end* procesa los datos de acuerdo con estas instrucciones. Típicamente, en el caso de los SIG en la Web, el *front end* se implementa en un navegador web y el *back end* a través de servidores de mapas y de bases de datos geoespaciales, entre otros. Los componentes del *front end* y del *back end* se ilustran en la figura 2.
 
 <p>
-<figure><img src="img/frontend-backend.jpg" alt="Front end y back End"><figcaption><small><strong>Figura 1.</strong> <em>Front end</em> y <em>back end</em>.</small></figcaption></figure>  
+<figure><img src="img/frontend-backend.jpg" alt="Front end y back End"><figcaption><small><strong>Figura 2.</strong> <em>Front end</em> y <em>back end</em>.</small></figcaption></figure>  
 <p>
 
 A continuación, se describen las principales tecnologías utilizadas tanto en el *front end* como en el *back end*.
