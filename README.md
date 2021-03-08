@@ -31,6 +31,10 @@ Adicionalmente, en la tabla 1 se comparan algunas características de ambos tipo
         <td>Funcionalidad orientada a tareas específicas</td>
     </tr>
     <tr>
+        <td>Interfaz de usuario compleja</td>
+        <td>Interfaz de usuario sencilla</td>
+    <tr>
+    <tr>
         <td>Para usuarios especializados</td>
         <td>Para usuarios no especializados</td>
     </tr>
