@@ -1,15 +1,12 @@
-p {
-    color:red;
-    font-size:200%;
-}
-
-h1 {
-    background-color:yellow;
-}            
-
 body {
     background-color:black;
     color:white;
+    font-family:Arial;
     margin:0 4px 0 0;
     border:12px solid;
+}
+
+h1 {
+    color:blue;
+    background-color:yellow;
 }       
