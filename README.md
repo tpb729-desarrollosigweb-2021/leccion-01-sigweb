@@ -21,7 +21,7 @@ Los SIG en la Web permiten, por ejemplo, visualizar en un navegador de Internet 
 <figure><img src="img/ala-osphranter-rufus.png" alt="Interfaz del portal geoespacial del ALA"><figcaption><small><strong>Figura 2. </strong><a href="https://spatial.ala.org.au/">Portal geoespacial del Atlas of Living Australia</a> que muestra registros de presencia del canguro rojo (<em>Osphranter rufus</em>) sobre capas raster de temperatura y precipitación.</small></figcaption></figure>  
 <p>
 
-Algunas de las diferencias entre los SIG de escritorio y los SIG en la Web se ilustran en la figura 3.
+Algunas de las diferencias mencionadas entre los SIG de escritorio y los SIG en la Web se ilustran en la figura 3.
 
 <p>
 <figure><img src="img/sigescritorio-sigweb.jpg" alt="Front end y back End"><figcaption><small><strong>Figura 3.</strong> SIG de escritorio y SIG en la Web.</small></figcaption></figure>  
