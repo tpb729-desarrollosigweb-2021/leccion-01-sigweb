@@ -119,13 +119,16 @@ body {
     color:white;
     font-family:Arial;
     margin:0 4px 0 0;
-    border:12px solid;
+    border:3px solid;
 }
 
 h1 {
     color:blue;
-    background-color:yellow;
-}
+}       
+
+h2 {
+    color:gray;
+}   
 ```
 
 El resultado de aplicar estos estilos en el documento HTML del ejemplo anterior, se muestra en la figura 4.
