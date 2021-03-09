@@ -1,13 +1,13 @@
 # Sistemas de información geográfica en la Web
-Un sistema de información geográfica (SIG) es aquel que está orientado al manejo de información relacionada con la localización de objetos o fenómenos en el espacio. Un SIG facilita la realización de tareas como:
+Un sistema de información geográfica (SIG) está orientado al manejo de información relacionada con la localización de objetos o fenómenos en el espacio. Un SIG facilita la realización de tareas como:
 
-- Lectura, edición, almacenamiento y, en general, gestión de datos e información geográfica.
+- Lectura, edición, almacenamiento y, en general, gestión de datos geográficos.
 - Generación de visualizaciones tales como mapas, gráficos y tablas.
 - Análisis de datos e información geográfica.
 
 En sus inicios, en la década de 1960 (y durante varias décadas subsiguientes), los SIG fueron implementados principalmente como aplicaciones *de escritorio*. Es decir, sistemas de software que funcionan íntegramente en la computadora del usuario, sin acceder a otras computadoras o recursos externos para realizar tareas como las mencionadas anteriormente. Con la paulatina popularización de las redes de computadoras y de la Internet, a partir de la década de 1980, se hizo cada vez más evidente la conveniencia de utilizar la *World Wide Web* (WWW) para realizar de manera ditribuida (i.e. en varias computadoras) estas tareas. 
 
-La WWW, llamada también "la Web", es un sistema de distribución de documentos de hipertexto o hipermedia, llamados también páginas web, interconectados y a través del [Protocolo de Transferencia de Hipertexto o HTTP](https://tools.ietf.org/html/rfc7540) (siglas en inglés de *Hypertext Transfer Protocol*), uno de los integrantes de la [familia de protocolos de Internet](https://es.wikipedia.org/wiki/Familia_de_protocolos_de_internet). Con un navegador web, un usuario visualiza sitios web compuestos de páginas web que pueden contener textos, imágenes, vídeos u otros contenidos multimedia, permitiendo la navegación a través de esas páginas usando hiperenlaces. Los sitios web se alojan en servidores que responden a las solicitudes de los clientes (i.e. navegadores web), de acuerdo con el [modelo cliente-servidor](https://en.wikipedia.org/wiki/Client%E2%80%93server_model), como se muestra en la figura 1.
+La WWW, llamada también "la Web", es un sistema de distribución de documentos de hipertexto e hipermedia, llamados también páginas web, interconectados a través del [Protocolo de Transferencia de Hipertexto o HTTP](https://tools.ietf.org/html/rfc7540) (siglas en inglés de *Hypertext Transfer Protocol*), uno de los integrantes de la [familia de protocolos de Internet](https://es.wikipedia.org/wiki/Familia_de_protocolos_de_internet). Con un navegador web, un usuario visualiza sitios web compuestos de páginas web que pueden contener textos, imágenes, vídeos u otros contenidos multimedia, permitiendo la navegación a través de esas páginas mediante hiperenlaces. Los sitios web se alojan en servidores que responden a las solicitudes de los clientes (i.e. navegadores web), de acuerdo con el [modelo cliente-servidor](https://en.wikipedia.org/wiki/Client%E2%80%93server_model), como se muestra en la figura 1.
 
 <p>
 <figure><img src="img/http.jpg" alt="HTTP"><figcaption><small><strong>Figura 1.</strong> Protocolo HTTP.</small></figcaption></figure>  
