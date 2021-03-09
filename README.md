@@ -148,6 +148,20 @@ El resultado de la aplicación de estos estilos se muestra en la figura 6.
 <p>
 
 #### JavaScript
+[JavaScript](https://es.wikipedia.org/wiki/JavaScript) es un lenguaje de programación utilizado para añadir interactividad a las páginas web. Fue creado en 1995 por Brendan Eich, con el fin de dar interactividad a las páginas web leídas con el navegador [Netscape](https://en.wikipedia.org/wiki/Netscape_%28web_browser%29). En la actualidad, es utilizado por todos los [principales navegadores web](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers) y en la mayoría de los sitios web.
+
+Mediante JavaScript es posible:
+
+- Controlar multimedia.
+- Reaccionar a "eventos" (ej. presionar un botón).
+- Modificar dinámicamente el contenido de una página web.
+- Manejar mapas interactivos.
+
+```js
+function desplegarFechaHora () {
+  document.getElementById('fechaYhora').innerHTML = Date();
+}
+```
 
 ##### Bibliotecas geoespaciales
 
