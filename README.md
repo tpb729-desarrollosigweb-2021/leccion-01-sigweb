@@ -4,7 +4,7 @@ Un sistema de información geográfica (SIG) es aquel que está orientado al man
 En un entorno de manejo de datos geográficos (o, en general, espaciales), un SIG facilita la realización de tareas como:
 
 - Lectura, edición, almacenamiento y, en general, gestión de datos.
-- Generación de visualizaciones tales como mapas, gráficos y tablas, entre otros.
+- Generación de visualizaciones tales como mapas, gráficos y tablas.
 - Análisis de datos.
 
 En sus inicios, en la década de 1960 (y durante varias décadas subsiguientes), los SIG fueron implementados principalmente como aplicaciones *de escritorio*. Es decir, sistemas de software que funcionan íntegramente en la computadora del usuario, sin acceder a otras computadoras o recursos externos para realizar tareas como las mencionadas anteriormente. Con la paulatina popularización de las redes de computadoras y de la Internet, a partir de la década de 1980, se hizo cada vez más evidente la conveniencia de utilizar la *World Wide Web* (WWW) para realizar de manera ditribuida (i.e. en varias computadoras) estas tareas. 
