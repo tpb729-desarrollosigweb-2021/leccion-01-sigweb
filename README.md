@@ -166,7 +166,7 @@ function desplegarFechaHora () {
 ```
 
 <p>
-<figure><img src="https://tpb729-desarrollosigweb-2021.github.io/leccion-01-sigweb/img/tim-berners-lee-js.png" alt="Documento HTML"><figcaption><small><strong>Figura 7.</strong> <a href="https://tpb729-desarrollosigweb-2021.github.io/leccion-01-sigweb/tim-berners-lee-js.html">Botón que llama a función en JavaScript que despliega la fecha y la hora</a>.</small></figcaption></figure>  
+<figure><img src="https://tpb729-desarrollosigweb-2021.github.io/leccion-01-sigweb/img/tim-berners-lee-js.png" alt="Documento HTML"><figcaption><small><strong>Figura 7.</strong> <a href="https://tpb729-desarrollosigweb-2021.github.io/leccion-01-sigweb/tim-berners-lee-js.html">Página web con botón que llama a función en JavaScript que despliega la fecha y la hora</a>.</small></figcaption></figure>  
 <p>
 
 ##### Bibliotecas geoespaciales
