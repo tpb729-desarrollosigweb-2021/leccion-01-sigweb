@@ -170,6 +170,9 @@ function desplegarFechaHora () {
 <p>
 
 ##### Bibliotecas geoespaciales
+Hay varias bibliotecas de JavaScript que permiten incorporar mapas en páginas web, junto con controles para realizar algunas acciones como acercamientos, alejamientos, búsquedas y otros. También facilitan la generación de análisis y visualizaciones como mapas de coropletas (*choropleth maps*), mapas de calor (*heat maps*) y mapas de agrupaciones (*cluster maps*). El código fuente en JavaScript se invoca desde *tags* de HTML. Usualmente, estas bibliotecas se distribuyen con un conjunto de hojas de estilo (CSS).
+
+Algunas de las más populares de estas bibliotecas son [Leaflet](https://leafletjs.com/), [OpenLayers](https://openlayers.org/) y [Google Maps](https://developers.google.com/maps/documentation).
 
 ### *Back end*
 
