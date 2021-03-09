@@ -128,6 +128,12 @@ h1 {
 }
 ```
 
+El resultado de aplicar estos estilos en el documento HTML del ejemplo anterior, se muestra en la figura 4.
+
+<p>
+<figure><img src="https://tpb729-desarrollosigweb-2021.github.io/leccion-01-sigweb/img/tim-berners-lee-css.png" alt="Documento HTML"><figcaption><small><strong>Figura 4.</strong> <a href="https://tpb729-desarrollosigweb-2021.github.io/leccion-01-sigweb/tim-berners-lee-css.html">Página web con estilos especificados mediante CSS</a>.</small></figcaption></figure>  
+<p>
+
 #### JavaScript
 
 ##### Bibliotecas geoespaciales
