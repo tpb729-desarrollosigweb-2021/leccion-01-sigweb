@@ -157,11 +157,17 @@ Mediante JavaScript es posible:
 - Modificar dinámicamente el contenido de una página web.
 - Manejar mapas interactivos.
 
+El siguiente [ejemplo de código JavaScript](https://github.com/tpb729-desarrollosigweb-2021/leccion-01-sigweb/blob/main/js/funciones.js) define una función. La figura 7 muestra el resultado de su ejecución desde un documento HTML.
+
 ```js
 function desplegarFechaHora () {
   document.getElementById('fechaYhora').innerHTML = Date();
 }
 ```
+
+<p>
+<figure><img src="https://tpb729-desarrollosigweb-2021.github.io/leccion-01-sigweb/img/tim-berners-lee-js.png" alt="Documento HTML"><figcaption><small><strong>Figura 7.</strong> <a href="https://tpb729-desarrollosigweb-2021.github.io/leccion-01-sigweb/tim-berners-lee-js.html">Botón que llama a función en JavaScript que despliega la fecha y la hora</a>.</small></figcaption></figure>  
+<p>
 
 ##### Bibliotecas geoespaciales
 
