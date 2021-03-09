@@ -11,10 +11,16 @@ En sus inicios, en la década de 1960 (y durante varias décadas subsiguientes),
 
 La WWW, llamada también "la Web", es un sistema de distribución de documentos de hipertexto o hipermedia interconectados y accesibles a través del [Protocolo de Transferencia de Hipertexto o HTTP](https://tools.ietf.org/html/rfc7540) (siglas en inglés de *Hypertext Transfer Protocol*), uno de los integrantes de la [familia de protocolos de Internet](https://es.wikipedia.org/wiki/Familia_de_protocolos_de_internet). Con un navegador web, un usuario visualiza sitios web compuestos de páginas web que pueden contener textos, imágenes, vídeos u otros contenidos multimedia, permitiendo la navegación a través de esas páginas usando hiperenlaces. [La WWW fue creada en 1989](https://home.cern/science/computing/birth-web) por el científico inglés Tim Berners-Lee, como parte de su trabajo en la Organización Europea para la Investigación Nuclear (CERN, *Conseil européen pour la recherche nucléaire*). Fue concebida originalmente como parte de un sistema para que los investigadores del CERN utilizaran y compartieran documentos.
 
-Los SIG en la Web permiten, por ejemplo, visualizar en un navegador de Internet mapas elaborados con datos geoespaciales almacenados en repositorios remotos o acceder servicios de geoprocesamiento disponibles en servidores administrados por terceros. Estas diferencias entre los SIG de escritorio y los SIG en la Web, se ilustran en la figura 1.
+Los SIG en la Web permiten, por ejemplo, visualizar en un navegador de Internet mapas elaborados con datos geoespaciales almacenados en repositorios remotos o acceder servicios de geoprocesamiento disponibles en servidores administrados por terceros. En la figura 1 se muestra un ejemplo de SIG en la Web.
 
 <p>
-<figure><img src="img/sigescritorio-sigweb.jpg" alt="Front end y back End"><figcaption><small><strong>Figura 1.</strong> SIG de escritorio y SIG en la Web.</small></figcaption></figure>  
+<figure><img src="img/ala-osphranter-rufus.png" alt="Interfaz del ALA"><figcaption><small><strong>Figura 1.</strong> Portal geoespacial del <a href="https://spatial.ala.org.au/">Atlas of Living Australia</a> que muestra registros de presencia del canguro rojo sobre capas raster de temperatura y precipitación.</small></figcaption></figure>  
+<p>
+
+Las diferencias entre los SIG de escritorio y los SIG en la Web, se ilustran en la figura 2.
+
+<p>
+<figure><img src="img/sigescritorio-sigweb.jpg" alt="Front end y back End"><figcaption><small><strong>Figura 2.</strong> SIG de escritorio y SIG en la Web.</small></figcaption></figure>  
 <p>
     
 Adicionalmente, en la tabla 1 se comparan algunas características de ambos tipos de SIG.
