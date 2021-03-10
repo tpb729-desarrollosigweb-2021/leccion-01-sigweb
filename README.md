@@ -191,7 +191,7 @@ Hay una gran cantidad de lenguajes que se utilizan para ejecutar procesos en los
 - [W3Schools](https://www.w3schools.com/)
 
 ## Ejercicios
-1. Ingrese a [CodePen](https://codepen.io/) (puede hacerlo con su usuario de GitHub) y cree un "Pen" con el siguiente contenido para cada sección:
+1. Ingrese a [CodePen](https://codepen.io/) (puede hacerlo con su cuenta de GitHub) y cree un "Pen" con el siguiente contenido para cada sección:
 
 HTML
 ```html
