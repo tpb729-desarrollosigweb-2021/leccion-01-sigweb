@@ -189,3 +189,66 @@ Hay una gran cantidad de lenguajes que se utilizan para ejecutar procesos en los
 ## Recursos adicionales
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [W3Schools](https://www.w3schools.com/)
+
+## Ejercicios
+1. Ingrese a [CodePen](https://codepen.io/) (puede hacerlo con su usuario de GitHub) y cree un "Pen" con el siguiente contenido para cada sección:
+
+HTML
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Tim Berners-Lee</title>     
+
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/estilos.css">
+    <script src="js/funciones.js"></script>    
+</head>
+<body>
+    <h1>Tim Berners-Lee</h1>
+    Sir Timothy John Berners-Lee es un científico de la computación inglés, conocido por crear la World Wide Web (WWW).    
+    <p>
+    <img src="img/tim-berners-lee-128px.jpg">
+    
+    <h2>Información general</h2>
+    Tim Berners-Lee nació en el sudoeste de Londres, Reino Unido, el 8 de junio de 1955. 
+    
+    <h2>Creación de la WWW</h2>
+    Tim Berners-Lee creó la WWW en 1989 como parte de su trabajo en la <a href="https://home.cern/">Organización Europea para la Investigación Nuclear (CERN)</a>.
+  
+    <p>
+    
+    <button type="button" onclick="desplegarFechaHora()">
+      Presione para desplegar la fecha y la hora
+    </button>
+
+    <p id="fechaYhora"></p>  
+</body>
+</html>
+```
+
+CSS
+```css
+body {
+    background-color:black;
+    color:white;
+    font-family:Arial;
+    margin:0 4px 0 0;
+    border:3px solid;
+}
+
+h1 {
+    color:blue;
+}       
+
+h2 {
+    color:gray;
+}   
+```
+
+JS
+```js
+function desplegarFechaHora () {
+  document.getElementById('fechaYhora').innerHTML = Date();
+}
+```
