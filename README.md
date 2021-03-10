@@ -260,7 +260,7 @@ function desplegarFechaHora () {
 - Realice cambios en el código HTML, CSS y JavaScript y observe como se afecta la página web resultante. Sugerencias: agregue más texto, cambie los colores, cambie el tamaño de las letras, cambie el texto que se despliega al presionar el botón, ...
 
 2. Cree en [GitHub](https://github.com/) un sitio web sobre Tim-Berners-Lee.
-- Ingrese a [GitHub](https://github.com/) (puede hacerlo con su cuenta de GitHub) y cree un repositorio llamado "tim-berners-lee".
+- Ingrese a [GitHub](https://github.com/) y cree un repositorio llamado "tim-berners-lee".
 - Clone el repositorio en su computadora con el comando ```git clone```. Debe tener instalado el programa [Git](https://git-scm.com/).
 - En el directorio clonado, cree un archivo llamado "index.html" con el código HTML del ejercicio 1. Abra el archivo con un navegador web.
 - Cree subdirectorio llamado "css" y un archivo llamado "css/estilos.css" con el código CSS del ejercicio 1. Abra (o refresque) de nuevo el archivo HTML y observe los cambios.
