@@ -191,8 +191,8 @@ Hay una gran cantidad de lenguajes que se utilizan para ejecutar procesos en los
 - [W3Schools](https://www.w3schools.com/)
 
 ## Ejercicios
-1. Ingrese a [CodePen](https://codepen.io/) (puede hacerlo con su cuenta de GitHub) y cree un *pen* (lápiz) sobre Tim Berners-Lee.
-
+1. Cree en [CodePen](https://codepen.io/) un *pen* sobre Tim-Berners-Lee.
+- Ingrese a [CodePen](https://codepen.io/) (puede hacerlo con su cuenta de GitHub) y cree un *pen*.
 - Agregue el siguiente contenido para cada sección (note los cambios que se producen en la página web al incorporar cada una de las secciones):
 
 HTML
@@ -259,4 +259,12 @@ function desplegarFechaHora () {
 - Guarde su *pen* y asígnele un nombre (ej. "Biografía de Tim Berners-Lee").
 - Realice cambios en el código HTML, CSS y JavaScript y observe como se afecta la página web resultante. Sugerencias: agregue más texto, cambie los colores, cambie el tamaño de las letras, cambie el texto que se despliega al presionar el botón, ...
 
-
+2. Cree en [GitHub](https://github.com/) un sitio web sobre Tim-Berners-Lee.
+- Ingrese a [GitHub](https://github.com/) (puede hacerlo con su cuenta de GitHub) y cree un repositorio llamado "tim-berners-lee".
+- Clone el repositorio en su computadora con el comando ```git clone```. Debe tener instalado el programa [Git](https://git-scm.com/).
+- En el directorio clonado, cree un archivo llamado "index.html" con el código HTML del ejercicio 1. Abra el archivo con un navegador web.
+- Cree subdirectorio llamado "css" y un archivo llamado "css/estilos.css" con el código CSS del ejercicio 1. Abra (o refresque) de nuevo el archivo HTML y observe los cambios.
+- Cree un subdirectorio llamado "js" y un archivo llamado "js/funciones.js" con el código JavaScript del ejercicio 1. Abra (o refresque) de nuevo el archivo HTML y observe los cambios.
+- Cree un subddirectorio llamado "img" y coloque ahí la imagen en "https://github.com/tpb729-desarrollosigweb-2021/leccion-01-sigweb/raw/main/img/tim-berners-lee-128px.jpg". Modifique el archivo HTML para que utilice esta imagen local y no la que está en GitHub.
+- Actualice el repositorio con los comandos ```git status```, ```git add```, ```git commit``` y ```git push```.
+- En GitHub, cree un sitio web con GitHub Pages y observelo en su navegador web.
