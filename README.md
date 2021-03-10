@@ -208,7 +208,7 @@ HTML
     <h1>Tim Berners-Lee</h1>
     Sir Timothy John Berners-Lee es un científico de la computación inglés, conocido por crear la World Wide Web (WWW).    
     <p>
-    <img src="img/tim-berners-lee-128px.jpg">
+    <img src="https://github.com/tpb729-desarrollosigweb-2021/leccion-01-sigweb/raw/main/img/tim-berners-lee-128px.jpg">
     
     <h2>Información general</h2>
     Tim Berners-Lee nació en el sudoeste de Londres, Reino Unido, el 8 de junio de 1955. 
