@@ -191,7 +191,9 @@ Hay una gran cantidad de lenguajes que se utilizan para ejecutar procesos en los
 - [W3Schools](https://www.w3schools.com/)
 
 ## Ejercicios
-1. Ingrese a [CodePen](https://codepen.io/) (puede hacerlo con su cuenta de GitHub) y cree un "Pen" con el siguiente contenido para cada sección:
+1. Ingrese a [CodePen](https://codepen.io/) (puede hacerlo con su cuenta de GitHub) y cree un *pen* (lápiz) sobre Tim Berners-Lee.
+
+- Agregue el siguiente contenido para cada sección (note los cambios que se producen en la página web al incorporar cada una de las secciones):
 
 HTML
 ```html
@@ -252,3 +254,9 @@ function desplegarFechaHora () {
   document.getElementById('fechaYhora').innerHTML = Date();
 }
 ```
+
+- En la sección de HTML, puede dejar únicamente la parte que corresponde al ```body``` del documento.
+- Guarde su *pen* y asígnele un nombre (ej. "Biografía de Tim Berners-Lee").
+- Realice cambios en el código HTML, CSS y JavaScript y observe como se afecta la página web resultante. Sugerencias: agregue más texto, cambie los colores, cambie el tamaño de las letras, cambie el texto que se despliega al presionar el botón, ...
+
+
