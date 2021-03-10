@@ -77,9 +77,10 @@ En general, las tecnologías que se utilizan en el desarrollo de aplicaciones pa
 A continuación, se describen las principales tecnologías utilizadas tanto en el *front end* como en el *back end*.
 
 ### *Front end*
+Las tres principales tecnologías que se utilizan en el desarrollo de aplicaciones web en el *front end* son el lenguaje de marcas HTML, el lenguaje de diseño gráfico CSS y el lenguaje de programación JavaScript.
 
 #### HTML
-El [Lenguaje de Marcas de Hipertexto o HTML](https://html.spec.whatwg.org/) (siglas en inglés de *Hypertext Markup Language*) es el lenguaje de marcas estándar para documentos diseñados para desplegarse en un navegador web. Junto con CSS (*Cascading Style Sheets*) y JavaScript, conforma el grupo de las tres sintaxis principales de la Web. Fue creado en 1990 por Tim Berners-Lee.
+El [Lenguaje de Marcas de Hipertexto o HTML](https://html.spec.whatwg.org/) (siglas en inglés de *Hypertext Markup Language*) es el lenguaje de marcas estándar para documentos diseñados para desplegarse en un navegador web. Fue creado en 1990 por Tim Berners-Lee.
 
 El HTML especifica la estructura y la semántica de una página web mediante marcas o *tags*. Un navegador web recibe documentos HTML desde un servidor web (o desde almacenamiento local) y despliega sus componentes (textos, imágenes, hiperenlaces, etc.) de acuerdo con las especificaciones contenidas en los *tags.*
 
@@ -175,8 +176,9 @@ Hay varias bibliotecas de JavaScript que permiten incorporar mapas en páginas w
 Algunas de las más populares de estas bibliotecas son [Leaflet](https://leafletjs.com/), [OpenLayers](https://openlayers.org/) y [Google Maps](https://developers.google.com/maps/documentation).
 
 ### *Back end*
+El *back end* puede contener una gran variedad de componentes. En el caso de las aplicaciones web geoespaciales, se destacan los servicios web y las bases de datos geoespaciales.
 
-#### Servicios web
+#### Servicios web geoespaciales
 
 #### Bases de datos geoespaciales
 
