@@ -176,11 +176,16 @@ Hay varias bibliotecas de JavaScript que permiten incorporar mapas en páginas w
 Algunas de las más populares de estas bibliotecas son [Leaflet](https://leafletjs.com/), [OpenLayers](https://openlayers.org/) y [Google Maps](https://developers.google.com/maps/documentation).
 
 ### *Back end*
-El *back end* puede contener una gran variedad de componentes. En el caso de las aplicaciones web geoespaciales, se destacan los servicios web y las bases de datos geoespaciales.
+En el *back end* pueden utilizarse una gran cantidad de tecnologías. Aquí se destaca el lenguaje SQL, para bases de datos, y lenguajes y entornos de ejecución utilizados en servidores web y para acceso a datos.
 
-#### Servicios web geoespaciales
+#### SQL
+El [Lenguaje de Consulta Estructurada](https://es.wikipedia.org/wiki/SQL) (siglas en inglés de *Structured Query Language*) es un lenguaje de programación para consulta y gestión de datos. Fue creado en 1974 por Donald D. Chamberlin y Raymond F. Boyce. Es ampliamente utilizado en [bases de datos relacionales](https://es.wikipedia.org/wiki/Base_de_datos_relacional) y algunas de sus variantes se utilizan también en [bases de datos NoSQL](https://es.wikipedia.org/wiki/NoSQL).
 
-#### Bases de datos geoespaciales
+Los principales motores de bases de datos implementan tipos de datos geométricos (puntos, líneas, polígonos, etc.) que pueden consultarse y editarse con funciones SQL. Estas extensiones espaciales de los motores de bases de datos están basadas en estándares como [Simple Features](https://www.ogc.org/standards/sfa).
 
-## Recursos externos
-- Sistemas de Información Geográfica, de Víctor Olaya (https://volaya.github.io/libro-sig/)
+#### Lenguajes y entornos de ejecución para servidores
+Hay una gran cantidad de lenguajes que se utilizan para ejecutar procesos en los servidores. Algunos de los principales son [PHP](https://www.php.net/), [Python](https://www.python.org/), [Ruby](https://www.ruby-lang.org/) y el entorno de ejecución [Node.js](https://nodejs.org/).
+
+## Recursos adicionales
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [W3Schools](https://www.w3schools.com/)
