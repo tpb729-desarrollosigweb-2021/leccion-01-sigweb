@@ -179,7 +179,7 @@ Algunas de las más populares de estas bibliotecas son [Leaflet](https://leaflet
 En el *back end* pueden utilizarse una gran cantidad de tecnologías. Aquí se destaca el lenguaje SQL, para bases de datos, y lenguajes y entornos de ejecución utilizados en servidores web y para acceso a datos.
 
 #### SQL
-El [Lenguaje de Consulta Estructurada](https://es.wikipedia.org/wiki/SQL) (siglas en inglés de *Structured Query Language*) es un lenguaje de programación para consulta y gestión de datos. Fue creado en 1974 por Donald D. Chamberlin y Raymond F. Boyce. Es ampliamente utilizado en [bases de datos relacionales](https://es.wikipedia.org/wiki/Base_de_datos_relacional) y algunas de sus variantes se utilizan también en [bases de datos NoSQL](https://es.wikipedia.org/wiki/NoSQL).
+El [Lenguaje de Consulta Estructurada o SQL](https://es.wikipedia.org/wiki/SQL) (siglas en inglés de *Structured Query Language*) es un lenguaje de programación para consulta y gestión de datos. Fue creado en 1974 por Donald D. Chamberlin y Raymond F. Boyce. Es ampliamente utilizado en [bases de datos relacionales](https://es.wikipedia.org/wiki/Base_de_datos_relacional) y algunas de sus variantes se utilizan también en [bases de datos NoSQL](https://es.wikipedia.org/wiki/NoSQL).
 
 Los principales motores de bases de datos implementan tipos de datos geométricos (puntos, líneas, polígonos, etc.) que pueden consultarse y editarse con funciones SQL. Estas extensiones espaciales de los motores de bases de datos están basadas en estándares como [Simple Features](https://www.ogc.org/standards/sfa).
 
