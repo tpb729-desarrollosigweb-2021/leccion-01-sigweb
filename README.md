@@ -192,8 +192,8 @@ Hay una gran cantidad de lenguajes que se utilizan para ejecutar procesos en los
 
 ## Ejercicios
 1. Cree en [CodePen](https://codepen.io/) un *pen* sobre Tim-Berners-Lee.
-- Ingrese a [CodePen](https://codepen.io/) (puede hacerlo con su cuenta de GitHub) y cree un *pen*.
-- Agregue el siguiente contenido para cada sección (note los cambios que se producen en la página web al incorporar cada una de las secciones):
+    1.1. Ingrese a [CodePen](https://codepen.io/) (puede hacerlo con su cuenta de GitHub) y cree un *pen*.
+    1.2. Agregue el siguiente contenido para cada sección (note los cambios que se producen en la página web al incorporar cada una de las secciones):
 
 HTML
 ```html
