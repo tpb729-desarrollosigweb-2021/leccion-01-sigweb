@@ -259,12 +259,12 @@ c. En la sección de HTML, puede dejar únicamente la parte que corresponde al `
 d. Guarde su *pen* y asígnele un nombre (ej. "Biografía de Tim Berners-Lee").  
 e. Realice cambios en el código HTML, CSS y JavaScript y observe como se afecta la página web resultante. Sugerencias: agregue más texto, cambie los colores, cambie el tamaño de las letras, cambie el texto que se despliega al presionar el botón, ...  
 
-2. Cree en [GitHub](https://github.com/) un sitio web sobre Tim-Berners-Lee.
-a. Ingrese a [GitHub](https://github.com/) y cree un repositorio llamado "tim-berners-lee".  
-b. Clone el repositorio en su computadora con el comando ```git clone```. Debe tener instalado el programa [Git](https://git-scm.com/).  
-c. En el directorio clonado, cree un archivo llamado "index.html" con el código HTML del ejercicio 1. Abra el archivo con un navegador web.  
-d. Cree subdirectorio llamado "css" y un archivo llamado "css/estilos.css" con el código CSS del ejercicio 1. Abra (o refresque) de nuevo el archivo HTML y observe los cambios.  
-e. Cree un subdirectorio llamado "js" y un archivo llamado "js/funciones.js" con el código JavaScript del ejercicio 1. Abra (o refresque) de nuevo el archivo HTML y observe los cambios.  
-f. Cree un subddirectorio llamado "img" y coloque ahí la imagen en "https://github.com/tpb729-desarrollosigweb-2021/leccion-01-sigweb/raw/main/img/tim-berners-lee-128px.jpg". Modifique el archivo HTML para que utilice esta imagen local y no la que está en GitHub.  
-g. Actualice el repositorio con los comandos ```git status```, ```git add```, ```git commit``` y ```git push```.  
-h. En GitHub, cree un sitio web con GitHub Pages y observelo en su navegador web.
+2. Cree en [GitHub](https://github.com/) un sitio web sobre Tim-Berners-Lee.  
+2.1. Ingrese a [GitHub](https://github.com/) y cree un repositorio llamado "tim-berners-lee".  
+2.2. Clone el repositorio en su computadora con el comando ```git clone```. Debe tener instalado el programa [Git](https://git-scm.com/).  
+2.3. En el directorio clonado, cree un archivo llamado "index.html" con el código HTML del ejercicio 1. Abra el archivo con un navegador web.  
+2.4. Cree subdirectorio llamado "css" y un archivo llamado "css/estilos.css" con el código CSS del ejercicio 1. Abra (o refresque) de nuevo el archivo HTML y observe los cambios.  
+2.5. Cree un subdirectorio llamado "js" y un archivo llamado "js/funciones.js" con el código JavaScript del ejercicio 1. Abra (o refresque) de nuevo el archivo HTML y observe los cambios.  
+2.6. Cree un subddirectorio llamado "img" y coloque ahí la imagen en "https://github.com/tpb729-desarrollosigweb-2021/leccion-01-sigweb/raw/main/img/tim-berners-lee-128px.jpg". Modifique el archivo HTML para que utilice esta imagen local y no la que está en GitHub.  
+2.7. Actualice el repositorio con los comandos ```git status```, ```git add```, ```git commit``` y ```git push```.  
+2.8. En GitHub, cree un sitio web con GitHub Pages y observelo en su navegador web.
