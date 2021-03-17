@@ -192,8 +192,8 @@ Hay una gran cantidad de lenguajes que se utilizan para ejecutar procesos en los
 
 ## Ejercicios
 1. Cree en [CodePen](https://codepen.io/) un *pen* sobre Tim-Berners-Lee.  
-a. Ingrese a [CodePen](https://codepen.io/) (puede hacerlo con su cuenta de GitHub) y cree un *pen*.  
-b. Agregue el siguiente contenido para cada sección (note los cambios que se producen en la página web al incorporar cada una de las secciones):  
+1.1. Ingrese a [CodePen](https://codepen.io/) (puede hacerlo con su cuenta de GitHub) y cree un *pen*.  
+1.2. Agregue el siguiente contenido para cada sección (note los cambios que se producen en la página web al incorporar cada una de las secciones):  
 
 HTML
 ```html
@@ -255,9 +255,9 @@ function desplegarFechaHora () {
 }
 ```
 
-c. En la sección de HTML, puede dejar únicamente la parte que corresponde al ```body``` del documento.  
-d. Guarde su *pen* y asígnele un nombre (ej. "Biografía de Tim Berners-Lee").  
-e. Realice cambios en el código HTML, CSS y JavaScript y observe como se afecta la página web resultante. Sugerencias: agregue más texto, cambie los colores, cambie el tamaño de las letras, cambie el texto que se despliega al presionar el botón, ...  
+1.3. En la sección de HTML, puede dejar únicamente la parte que corresponde al ```body``` del documento.  
+1.4. Guarde su *pen* y asígnele un nombre (ej. "Biografía de Tim Berners-Lee").  
+1.5. Realice cambios en el código HTML, CSS y JavaScript y observe como se afecta la página web resultante. Sugerencias: agregue más texto, cambie los colores, cambie el tamaño de las letras, cambie el texto que se despliega al presionar el botón, ...  
 
 2. Cree en [GitHub](https://github.com/) un sitio web sobre Tim-Berners-Lee.  
 2.1. Ingrese a [GitHub](https://github.com/) y cree un repositorio llamado "tim-berners-lee".  
